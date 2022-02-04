@@ -7,7 +7,7 @@ This repository contains source code for the *"TESS Transit Timing of Hundreds o
 
 
 ## Processing *TESS* light curves 
-The code relies on the following Python packages:  numpy, pandas, scikit-learn, astropy, matplotlib, batman-package, scipy, lmfit, lxml, arxiv. 
+The code relies on the following Python packages:  numpy, pandas, scikit-learn, astropy, matplotlib, batman-package, scipy, lightkurve, lmfit, lxml, arxiv. 
 You may install the packages via pip or, if you use anaconda, you may run the following commands:
 ```
 module load anaconda
