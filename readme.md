@@ -17,7 +17,7 @@ conda activate tt
 Then clone this repository to your machine:
 
 ```
-git clone https://github.com/transit-timing/transit-timing.github.io.git
+git clone https://github.com/transit-timing/tt.git
 ```
  To process *TESS* light curves stored in the *~/data/* folder and extract mid-transit times, first go to the directory containing the code:
 
