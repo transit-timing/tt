@@ -1,7 +1,7 @@
 
 
 
-# TESS Transit Timing of 278 Planets [![DOI](https://zenodo.org/badge/452065386.svg)](https://zenodo.org/badge/latestdoi/452065386)
+# TESS Transit Timing of Hundreds of Hot Jupiters [![DOI](https://zenodo.org/badge/452065386.svg)](https://zenodo.org/badge/latestdoi/452065386)
 
 
 This repository contains source code for the *"TESS Transit Timing of 278 Planets"* paper. The repository provides code (1) to process *TESS* light curves (with 2, 10, or 30-minute sampling) to extract transit times, and (2) to automatically download arXiv articles that contain a given planet's name and a number greater than 2,000,000. A detailed description of the code can be found in the paper. 
