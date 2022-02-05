@@ -1,9 +1,8 @@
 
 
 
-# TESS Transit Timing of Hundreds of Hot Jupiters [![DOI](https://zenodo.org/badge/452065386.svg)](https://zenodo.org/badge/latestdoi/452065386)
+# TESS Transit Timing of Hundreds of Hot Jupiters [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5904270.svg)](https://doi.org/10.5281/zenodo.5904270)
 
- 
 This repository contains source code for the *"TESS Transit Timing of Hundreds of Hot Jupiters"* paper. The repository provides code (1) to process *TESS* light curves (with 2, 10, or 30-minute sampling) to extract transit times, and (2) to automatically download arXiv articles that contain a given planet's name and a number greater than 2,000,000. A detailed description of the code can be found in the paper. 
 
 
@@ -122,6 +121,7 @@ python3 read_tex.py -s wasp -id 12
 
 # Citation
 If you find the code useful, consider citing it:
-[![DOI](https://zenodo.org/badge/452065386.svg)](https://zenodo.org/badge/latestdoi/452065386)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5904270.svg)](https://doi.org/10.5281/zenodo.5904270)
+
 
 
